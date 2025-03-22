@@ -1,3 +1,12 @@
+# UPDATE
+
+This was recorded at https://github.com/tailwindlabs/tailwindcss/issues/17286
+
+The engineers was unable to reproduce the issue nor was I when I tried to reproduce it again
+so the ticket was closed.
+
+Thanks to @philipp-spiess for spending the time to give it a try.
+
 # 2025-03-19 Bug Report Qwik TailwindCSS Vite 4.0.8
 
 This repository demonstrates an issue with @tailwindcss/vite 4.0.8 and higher.
